@@ -1,4 +1,4 @@
-export default function displayBook(book) {
+const displayBook = (book) => {
   const newAddDiv = document.createElement('div');
   const booksContainer = document.querySelector('.displayBook');
   newAddDiv.classList.add('bookItem');
@@ -10,4 +10,6 @@ export default function displayBook(book) {
                             <button id="remove">Remove</button>
     `;
   booksContainer.appendChild(newAddDiv);
-}
+};
+
+export default displayBook;
