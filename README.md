@@ -15,11 +15,11 @@ This is a screenshot of my awesome book
 
 ### Prerequisites
 
-clone repo: `git clone git@github.com:Kandy-Peter/awesome-book-ES6.git`
+clone repo: `git clone git@github.com:Kandy-Peter/ES6-awesome-book.git`
 
 ### Live demo
 
-see the live demo [Awesome Book](https://kandy-peter.github.io/awesome-book-ES6/)
+see the live demo [Awesome Book](https://kandy-peter.github.io/ES6-awesome-book/)
 
 ### Install
 
