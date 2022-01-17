@@ -1,0 +1,23 @@
+{
+  "name": "ES6-awesome-book",
+  "version": "1.0.0",
+  "description": "create a javascript app that stores book the way that user can add and delete books. All changes will be stored in the local storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kandy-Peter/ES6-awesome-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kandy-Peter/ES6-awesome-book/issues"
+  },
+  "homepage": "https://github.com/Kandy-Peter/ES6-awesome-book#readme",
+  "dependencies": {
+    "luxon": "^2.3.0"
+  }
+}
