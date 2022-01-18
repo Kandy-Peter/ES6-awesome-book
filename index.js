@@ -15,7 +15,7 @@ newBooks.forEach((book) => {
 
 btn.addEventListener('click', (e) => {
   e.preventDefault();
-  if (title.value !== '' || author.value !== '') {
+  if (title.value !== '' && author.value !== '') {
     const id = Date.now();
     const book = {
       id,
