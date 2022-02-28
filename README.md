@@ -23,16 +23,16 @@ see the live demo [Awesome Book](https://kandy-peter.github.io/ES6-awesome-book/
 
 ### Install
 
- run `npm install` to install dependencies.
- run `npm i --save luxon` to install luxon.
+ - run `npm install` to install dependencies.
+ - run `npm i --save luxon` to install luxon.
 
 ## Command
 
 These commands are here to help you for how to check errors in your code using Linter
 
-*to install the webhint run `npm init -y` to initialize the package and create `package.json`
+*to install the webhint run `npm init -y` to initialize and create `package.json`
 
- then run `npm install --save-dev hint@6.x`
+*then run `npm install --save-dev hint@6.x`
  After creating the `.hintrc` file, run `npx hint .` to ckeck if there's an error.
 
 *to install the stylelint that help you to avoid errors in styles code run:
@@ -50,4 +50,16 @@ And to fix lint errors run `npx eslint .`
 - LinkedIn: [Kandi-Kamuntu](https://www.linkedin.com/in/kandi-peter-a49590212/)
 - twitter: [Kandi_Peter](https://twitter.com/peter_kandy)
 
+## 🤝 Contributing
 
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
