@@ -1,4 +1,8 @@
-# awesome-book-ES6
+![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Html-blue)
+![](https://img.shields.io/badge/css-red)
+![](https://img.shields.io/badge/Javascript-pink)
+# AwesomeBook-ES6
 create an awesome book javscript app using ES6 syntax and packages managments. I use `luxon` package to get the date.
 
 ## Screenshot
